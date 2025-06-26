@@ -11,4 +11,5 @@ The objective of this task is to develop a Speech Recognition System that can ac
 The Speech Recognition System enables users to speak into a microphone, and the system processes the audio to display the recognized text in real time. It also handles errors such as unrecognized speech or connectivity issues gracefully. Additionally, the system maintains a log file of all recognized speech for reference.
 
 OUTPUT:
+[OUTPUTS.pdf](https://github.com/user-attachments/files/20917342/OUTPUTS.pdf)
 
